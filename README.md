@@ -46,7 +46,7 @@ src
 
 Screenshots
 
-![image alt]()     
-![image alt]()     
-![image alt]()     
-![image alt]()     
+![image alt](https://github.com/ankur2802/Student_Management_System/blob/main/get_method.png?raw=true)     
+![image alt](https://github.com/ankur2802/Student_Management_System/blob/main/post_method.png?raw=true)     
+![image alt](https://github.com/ankur2802/Student_Management_System/blob/main/put_method.png?raw=true)     
+![image alt](https://github.com/ankur2802/Student_Management_System/blob/main/delete_method.png?raw=true)     
