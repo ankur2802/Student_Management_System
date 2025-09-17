@@ -23,7 +23,7 @@ It supports full CRUD operations with structured controller-service-repository l
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- H2 / MySQL / PostgreSQL (choose based on config)
+- PostgreSQL
 - Maven
 - Postman (for API testing)
 
